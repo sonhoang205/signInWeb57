@@ -1,0 +1,49 @@
+.btn-signin{
+    color: black;
+}
+.modal-content{
+    border: 0;
+    border-radius: 15px;
+    width: 85%;
+}
+.modal-header{
+    border: 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.hello{
+    font-weight: 800;
+    font-size: 45px;
+    border: 0;
+}
+.modal-body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.note{
+    color: #7d7c83;
+    text-align: center;
+    padding: 10px 43px;
+    margin-bottom: 0;
+}
+
+
+.modal-footer{
+    border: 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.btn-submit{
+    margin: 12px 0px;
+    font-size: 18px;
+    width: 90px;
+}
+.mb-3{
+    width: 350px;
+}
